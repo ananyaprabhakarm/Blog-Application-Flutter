@@ -14,7 +14,7 @@ class AuthGradientButton extends StatelessWidget {
             AppPallete.gradient2,
           ],
         ),
-        borderRadius: BorderRadius.circular(7),
+        borderRadius: BorderRadius.circular(8),
       ),
       child: ElevatedButton(
         onPressed: () {},
