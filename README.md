@@ -1,16 +1,18 @@
-# new_project
+Blog-Application-Flutter
 
-A new Flutter project.
+A simple blog application built with **Flutter**, following the principles of **Clean Architecture**. This project is part of my learning journey to structure Flutter apps in a scalable and maintainable way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK installed
+- A device/emulator to run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+```bash
+git clone https://github.com/your-username/blog-app-clean-architecture.git
+cd blog-app-clean-architecture
+flutter pub get
+flutter run
